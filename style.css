@@ -1,0 +1,45 @@
+.sign-up{
+    background-color: #04A5C9 !important;
+}
+.login{
+    border-color: #04A5C9 !important;
+    color: #38BDF8 !important;
+}
+.login:hover{
+    background-color: #04A5C9 !important;
+    color: white !important;
+}
+.ticketing{
+    color: #04A5C9;
+}
+.text-para{
+    font-weight: bold !important;
+}
+.poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+.poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+.container-2{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+      
+.image1 {
+        position: relative;
+        z-index: 2;
+      }
+.growth-price{
+    color: white;
+}
+      
+
+  
